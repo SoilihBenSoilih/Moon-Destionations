@@ -1,0 +1,20 @@
+{
+  "name": "world-bucket-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack-dev-server --open"
+  },
+  "author": "soilih",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.12.0",
+    "webpack-dev-server": "^2.9.3"
+  },
+  "dependencies": {},
+  "description": ""
+}
